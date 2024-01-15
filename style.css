@@ -1,0 +1,191 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+#banner{
+    width: 100%;
+    height: 650px;
+   background-image:url('https://wallpapercave.com/wp/wp9166934.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   display: flex;
+   
+}
+#err{
+    height: 1px;
+}
+#err p{
+    font-family: Vujahday Script;
+    font-size: xx-large;
+    font-weight: 500;
+    color: rgb(3, 3, 3)
+}
+
+#hed{
+    height: 80px;
+    display:flex;
+    background-color: rgba(0, 0, 0, 0.379);
+    width: 100%;
+}
+#hed h2{
+    color: white;
+    font-size: xx-large;
+    margin-top: 17px;
+    margin-left: 20px;
+
+
+}
+#hed h1{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-family: The Nautigal;
+   
+
+}
+#hed h6{
+    margin-left: 1290px;
+    font-size: xx-large;
+    margin-top: 17px;
+}
+.row{
+     background-color: rgba(255, 255, 255, 0.879);  */ rgba(35, 32, 32, 0.879) */ */
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: end;
+    
+
+}
+.col{
+    background-color:rgba(0, 0, 0, 0.938);
+    width: 300px;
+    height: 700px;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.37);
+    margin-left: 50px;
+    margin-top: 1px;
+}
+.col:hover{
+    box-shadow: 9px 9px 9px rgb(0, 0, 0);
+    
+}
+img{
+    width: 100%;
+    height: 290px;
+    border-radius: 20px;
+    border: 0.5px solid rgba(255, 255, 255, 0.668);
+    
+
+}
+button{
+    background: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+}
+button:hover{
+    box-shadow: 5px 6px 6px rgb(255, 255, 255);
+}
+h3,h4,p,h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #fffefe;
+}
+footer{
+    height: 600px;
+    background-color: rgb(58, 56, 56);
+}
+#foot1{
+    background-color: rgb(46, 70, 126);
+    height: 1px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   /* margin-top: 10px; */
+ 
+
+}
+.ftr{
+    
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+.ftr a{
+    color: white;
+    text-decoration: none;
+}
+.ftr:hover{
+    background-color: rgb(21, 25, 25);
+}
+.frow{
+    height: 400px;
+    display: flex;
+    align-items: end;
+}
+#last{
+    
+  
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#la{ margin-top: 20px;
+    margin-left: 20px;
+text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h6{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: x-large;
+}
+#ladiv{
+    background-image: url(https://storefix.co/wp-content/uploads/2020/04/shopify-footer-1024x683.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    width: 100%;
+    height: 800px;
+    display: flex;
+    
+}
+#ladiv a p{
+    margin-left: 593px;
+    margin-top: 600px;
+    color: #000;
+}
+
+#ladiv #a1{
+    margin-right: 700px;
+    margin-top: 60px;
+    margin-left: 10px;
+    color: rgb(255, 0, 0);
+}
+
+
+
+#ladiv img{
+    height: 800px;
+   width: 100%;
+   
+   
+}
